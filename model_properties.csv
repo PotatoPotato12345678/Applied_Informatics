@@ -1,2 +1,2 @@
-Model,model_type,epochs,batch_size,learning_rate,n_steps_in,n_steps_out,stride_in,x_features,y_features,y_offset,start_index
-univariate_MLP_1,MLP,200,32,0.001,1,1,1,5,5,0,0
+Model,model_type,aggregation_type,epochs,batch_size,learning_rate,layers,multi_headed,n_steps_in,n_steps_out,stride_in,y_offset,start_index,x_feature_0,x_feature_1,x_feature_2,x_feature_3,x_feature_4,x_feature_5,y_feature_0,y_feature_1,y_feature_2,y_feature_3,y_feature_4,y_feature_5
+univariate_MLP_1,MLP,Sum,200,32,0.001,1,False,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
