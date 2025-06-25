@@ -1,0 +1,2 @@
+Model,model_type,epochs,batch_size,learning_rate,n_steps_in,n_steps_out,stride_in,x_features,y_features,y_offset,start_index
+univariate_MLP_1,MLP,200,32,0.001,1,1,1,5,5,0,0

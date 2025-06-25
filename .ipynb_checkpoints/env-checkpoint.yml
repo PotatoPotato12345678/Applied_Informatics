@@ -1,4 +1,4 @@
-name: timeseries
+name: timeseries_IKUTA_Toma_26002300256
 channels:
   - defaults
 dependencies:
@@ -12,4 +12,3 @@ dependencies:
   - seaborn
   - statsmodels
   - jupyterlab-toc
-prefix: /Users/ikutatouma/anaconda3/envs/timeseries
